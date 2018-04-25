@@ -1,6 +1,6 @@
 {
-  "name": "strlib",
-  "version": "1.0.0",
+  "name": "lynda-strlib",
+  "version": "1.0.2",
   "description": "A string reversal library",
   "main": "index.js",
   "scripts": {
